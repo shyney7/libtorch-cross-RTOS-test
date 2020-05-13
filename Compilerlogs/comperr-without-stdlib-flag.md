@@ -1,3 +1,4 @@
+```console
 marcel@ubuntu:~/Documents/libtorch_cross_test/build$ source ~/qnx700/qnxsdp-env.sh 
 QNX_HOST=/home/marcel/qnx700/host/linux/x86_64
 QNX_TARGET=/home/marcel/qnx700/target/qnx7
@@ -402,4 +403,4 @@ CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/example-app.dir/all' fail
 make[1]: *** [CMakeFiles/example-app.dir/all] Error 2
 Makefile:83: recipe for target 'all' failed
 make: *** [all] Error 2
-
+```
