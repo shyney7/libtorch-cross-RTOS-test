@@ -1,3 +1,4 @@
+```console
 marcel@ubuntu:~/Documents/libtorch_cross_test/build$ cmake -DCMAKE_TOOLCHAIN_FILE=../cmake/qnx_7.0.0_linux_x86_64.cmake ..
 -- The C compiler identification is GNU 5.4.0
 -- The CXX compiler identification is GNU 5.4.0
@@ -610,3 +611,4 @@ CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/example-app.dir/all' fail
 make[1]: *** [CMakeFiles/example-app.dir/all] Error 2
 Makefile:83: recipe for target 'all' failed
 make: *** [all] Error 2
+```
